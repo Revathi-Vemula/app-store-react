@@ -1,0 +1,22 @@
+.app-details-container {
+  background-color: #dfe2e5;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-logo-style {
+  height: 80px;
+  width: 80px;
+  border-radius: 10px;
+}
+
+.app-name {
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  color: #1e293b;
+}
